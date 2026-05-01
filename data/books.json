@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "The Silent Echo",
+    "author": "Eleanor Vance",
+    "description": "A thrilling story of a woman trying to find her past in a silent town where no one speaks of the echoes.",
+    "category": "Story",
+    "available_quantity": 5,
+    "image_url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "2",
+    "title": "React JS for Beginners",
+    "author": "John Smith",
+    "description": "An introductory guide to modern web development using React and its ecosystem.",
+    "category": "Tech",
+    "available_quantity": 12,
+    "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "3",
+    "title": "Quantum Reality",
+    "author": "Dr. Alan Turing",
+    "description": "Exploring the vast mysteries of quantum mechanics and what it means for the future.",
+    "category": "Science",
+    "available_quantity": 8,
+    "image_url": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "4",
+    "title": "Whispers of the Wind",
+    "author": "Sarah Jenkins",
+    "description": "A captivating tale of a young girl's journey through mystical forests and forgotten lands.",
+    "category": "Story",
+    "available_quantity": 3,
+    "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "5",
+    "title": "Advanced Node.js",
+    "author": "Mark Brown",
+    "description": "Deep dive into server-side JavaScript and building scalable systems.",
+    "category": "Tech",
+    "available_quantity": 10,
+    "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "6",
+    "title": "The Expanding Universe",
+    "author": "Carl Sagan",
+    "description": "A comprehensive look at the cosmos, from the Big Bang to black holes.",
+    "category": "Science",
+    "available_quantity": 7,
+    "image_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "7",
+    "title": "Midnight Shadows",
+    "author": "James Patterson",
+    "description": "A suspenseful thriller that will keep you on the edge of your seat until the very end.",
+    "category": "Story",
+    "available_quantity": 4,
+    "image_url": "https://images.unsplash.com/photo-1614544048536-0d28caf77f41?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "8",
+    "title": "Mastering TypeScript",
+    "author": "Jane Doe",
+    "description": "Learn to write robust, maintainable, and typed code for large scale applications.",
+    "category": "Tech",
+    "available_quantity": 15,
+    "image_url": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "9",
+    "title": "Genetics and Evolution",
+    "author": "Charles Darwin",
+    "description": "Understanding the building blocks of life and how species adapt over time.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "10",
+    "title": "The Last Kingdom",
+    "author": "Bernard Cornwell",
+    "description": "Historical fiction set in 9th century England, detailing the conflict between Saxons and Danes.",
+    "category": "Story",
+    "available_quantity": 9,
+    "image_url": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "11",
+    "title": "DevOps Handbook",
+    "author": "Gene Kim",
+    "description": "How to create world-class agility, reliability, and security in technology organizations.",
+    "category": "Tech",
+    "available_quantity": 11,
+    "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "12",
+    "title": "Climate Change Physics",
+    "author": "Neil deGrasse Tyson",
+    "description": "An objective scientific look at global warming, its causes, and potential solutions.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop"
+  }
+]
